@@ -1,0 +1,26 @@
+{
+  "name": "graph-modules",
+  "version": "1.0.0",
+  "description": "ability to graph modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Penner <stefan.penner@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^4.3.1",
+    "petal": "^0.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefanpenner/graph-modules"
+  },
+  "bugs": {
+    "url": "https://github.com/stefanpenner/graph-modules/issues"
+  },
+  "homepage": "https://github.com/stefanpenner/graph-modules"
+}
